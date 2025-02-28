@@ -1,0 +1,28 @@
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.exe
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.deps.json
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.runtimeconfig.json
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.dll
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.pdb
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.AssemblyInfoInputs.cache
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.AssemblyInfo.cs
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.csproj.CoreCompileInputs.cache
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.dll
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/refint/IPC_Demo_Out.dll
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.pdb
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.genruntimeconfig.cache
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/ref/IPC_Demo_Out.dll
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.deps.json
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.runtimeconfig.json
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.dll
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/bin/Debug/net8.0/IPC_Demo_Out.pdb
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.GeneratedMSBuildEditorConfig.editorconfig
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.AssemblyInfoInputs.cache
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.AssemblyInfo.cs
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.csproj.CoreCompileInputs.cache
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.dll
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/refint/IPC_Demo_Out.dll
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.pdb
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/IPC_Demo_Out.genruntimeconfig.cache
+/home/pcox/Downloads/IPC_Demo/IPC_Demo/IPC_Demo_Out/obj/Debug/net8.0/ref/IPC_Demo_Out.dll

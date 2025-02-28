@@ -1,0 +1,4 @@
+C:\Users\10jon\OneDrive\Desktop\CS Labs & Assignments\OperatingSystems\IPC_Demo\IPC_Demo\obj\Debug\net8.0\IPC_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10jon\OneDrive\Desktop\CS Labs & Assignments\OperatingSystems\IPC_Demo\IPC_Demo\obj\Debug\net8.0\IPC_Demo.AssemblyInfoInputs.cache
+C:\Users\10jon\OneDrive\Desktop\CS Labs & Assignments\OperatingSystems\IPC_Demo\IPC_Demo\obj\Debug\net8.0\IPC_Demo.AssemblyInfo.cs
+C:\Users\10jon\OneDrive\Desktop\CS Labs & Assignments\OperatingSystems\IPC_Demo\IPC_Demo\obj\Debug\net8.0\IPC_Demo.csproj.CoreCompileInputs.cache

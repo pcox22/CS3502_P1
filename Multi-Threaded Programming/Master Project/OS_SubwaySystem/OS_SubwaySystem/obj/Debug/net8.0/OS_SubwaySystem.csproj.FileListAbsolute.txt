@@ -1,0 +1,28 @@
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.exe
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.deps.json
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.runtimeconfig.json
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.dll
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.pdb
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.AssemblyInfoInputs.cache
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.AssemblyInfo.cs
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.csproj.CoreCompileInputs.cache
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.dll
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/refint/OS_SubwaySystem.dll
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.pdb
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.genruntimeconfig.cache
+C:/Users/10jon/OneDrive/Desktop/CS Labs & Assignments/OperatingSystems/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/ref/OS_SubwaySystem.dll
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.deps.json
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.runtimeconfig.json
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.dll
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/bin/Debug/net8.0/OS_SubwaySystem.pdb
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.AssemblyInfoInputs.cache
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.AssemblyInfo.cs
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.csproj.CoreCompileInputs.cache
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.dll
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/refint/OS_SubwaySystem.dll
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.pdb
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/OS_SubwaySystem.genruntimeconfig.cache
+/home/pcox/Downloads/OS_SubwaySystem/OS_SubwaySystem/OS_SubwaySystem/obj/Debug/net8.0/ref/OS_SubwaySystem.dll
