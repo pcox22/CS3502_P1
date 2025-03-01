@@ -14,8 +14,8 @@ npm install
 2. Select File > Open and select the Folder inside the Repo for the given Project. (Note: Will need to open the Master Project Folder)
 3. For Multi-Threaded Programming (MTP), simply run the program and it should function as intended.
 4. For Inter-Process Communication (IPC):
-  A: Run the solution. There are two projects, and the one containing the server [IPC_Demo_In] is set as the startup program. If there are errors, ensure that it is selected when running.
-  B: Select the other Project [IPC_Demo_Out] and run it.
+  - Run the solution. There are two projects, and the one containing the server [IPC_Demo_In] is set as the startup program. If there are errors, ensure that it is selected when running.
+  - Select the other Project [IPC_Demo_Out] and run it.
 5. The two consoles should display messages that a connection is established.
 6. Enter any messages into the client console and press enter to send them. The message should be printed out on the server console.
 7. If there are any errors when trying to run, ensure that .NET 8.0 is installed, if it was not installed along with the IDE. To do so:
