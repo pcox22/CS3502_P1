@@ -22,7 +22,7 @@ npm install
   Ubuntu:
 ```bash
 sudo apt-get update && \
-  sudo apt-get install -y dotnet-sdk-9.0
+  sudo apt-get install -y dotnet-sdk-8.0
 ```
   Windows: Several Windows IDE's include .NET SDK's by default. If the selected IDE did not, consult: https://learn.microsoft.com/en-us/dotnet/core/install/windows
 
